@@ -1,6 +1,8 @@
 # projet-collectif-vente-de-meuble-secousse
 LeComptoir
+
 Description du projet
+
 LeComptoir est une plateforme de gestion pour un magasin de meubles, développée dans le cadre d'un projet collaboratif. Cette application web permet aux utilisateurs de s'inscrire et d'interagir avec le stock de meubles, avec différents niveaux d'accès selon le type d'utilisateur.
 
 - Fonctionnalités principales
