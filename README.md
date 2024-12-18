@@ -20,7 +20,7 @@ Chakra UI pour l'interface utilisateur
 Ce projet a été réalisé par une équipe de 8 personnes sur une durée de 8 jours.
 
 - Installation
-Clonez ce dépôt : git clone https://github.com/ItsJessicaDaVeiga/LeComptoir.git
+Clonez ce dépôt : git clone (https://github.com/Aroun77/projet-vente-de-meuble-LeComptoir.git)
 Naviguez dans le dossier du projet : cd LeComptoir
 Installez les dépendances : npm install
 Configurez les variables d'environnement pour la connexion à Supabase
